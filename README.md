@@ -4,9 +4,9 @@
 
 Hi, I'm a Junior Frontend Developer with a passion for crafting beautiful, responsive, and user-friendly web applications. I specialize in HTML, CSS, JavaScript, and React, and I’m continuously learning new technologies to enhance my skill set
 
-Skills:  HTML / CSS/ JS /Nodejs / REACT / Mongodb
+Skills:  HTML / CSS/ JS /Nodejs / REACT 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently Learning  Mongodb. 
 
 
 
