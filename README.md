@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co/rFg7d7K/github-banner.png"  />
+  <img height="204" src="https://i.ibb.co/MPCL8Ns/DALL-E-2025-01-07-22-54-05-A-professional-and-clean-banner-design-with-a-unique-background-color-The.webp"  />
 </div>
 
 ###
