@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="204" src="https://i.ibb.co/MPCL8Ns/DALL-E-2025-01-07-22-54-05-A-professional-and-clean-banner-design-with-a-unique-background-color-The.webp"  />
+  <img height="200" src="https://i.ibb.co/MPCL8Ns/DALL-E-2025-01-07-22-54-05-A-professional-and-clean-banner-design-with-a-unique-background-color-The.webp"  />
 </div>
 
 ###
@@ -83,5 +83,12 @@
 ###
 
 <p align="left">✨ Creating bugs since ...2023<br>📚 I'm currently learning ...Mongodb<br>🎯 Goals: ...To Be A Full-Stack Developer<br>🎲 Fun fact: ...I loved to spend time with nature</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABUNAYEM7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ABUNAYEM7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
