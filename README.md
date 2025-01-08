@@ -90,7 +90,11 @@
 
 ###
 
-<p align="left">Kashipur , Khilmarket<br>Naraynganj, Dhaka, Bangladesh<br><br>[mohammadabunayem106@gmail.com](mailto:mohammadabunayem106@gmail.com)</p>
+<p align="left">Kashipur , Khilmarket<br>Naraynganj, Dhaka, Bangladesh<br>
+  <br>
+   <strong>Email:</strong> 
+  <a href="mailto:mohammadabunayem106@gmail.com" style="text-decoration:none;">
+</p>
 
 ###
 
