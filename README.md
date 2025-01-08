@@ -38,6 +38,10 @@
 
 ###
 
+<p align="left">✨ Creating bugs since ...2023<br>📚 I'm currently learning ...Mongodb<br>🎯 Goals: ...To Be A Full-Stack Developer<br>🎲 Fun fact: ...I loved to spend time with nature</p>
+
+###
+
 <h2 align="left">I am proficient in</h2>
 
 ###
@@ -82,7 +86,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...2023<br>📚 I'm currently learning ...Mongodb<br>🎯 Goals: ...To Be A Full-Stack Developer<br>🎲 Fun fact: ...I loved to spend time with nature</p>
+<h4 align="left">📍 Location</h4>
+
+###
+
+<p align="left">Kashipur , Khilmarket<br>Naraynganj, Dhaka, Bangladesh<br><br>[mohammadabunayem106@gmail.com](mailto:mohammadabunayem106@gmail.com)</p>
 
 ###
 
