@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co/GMMmyQn/nayeem-min.jpg"  />
+  <img height="300" src="https://i.ibb.co/R0X2s9q/nayeem-min.jpg"  />
 </div>
 
 ###
